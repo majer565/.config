@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "391259252907dc24",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e8a92e06c082ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb52ae8539a6f4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37dece56748e20e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b70546622162f0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fbd983e914f087f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8759fe9c391cfe4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3eda4a8b68dbb0a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52e8f19d15de4a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "621d873055af78e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05bfe4be52acb830",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Impreza kostiumowa - Zakładowa2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Impreza kostiumowa - Zakładowa2024"
+            }
+          },
+          {
+            "id": "5dc2bf6156970d39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Impreza kostiumowa - Zakładowa2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Impreza kostiumowa - Zakładowa2024"
+            }
+          },
+          {
+            "id": "cf3c5a43083fa4ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ff1d27e4b24ddf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Impreza kostiumowa - Zakładowa2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Impreza kostiumowa - Zakładowa2024"
+            }
+          },
+          {
+            "id": "76df4441dfc41162",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "cfb52ae8539a6f4b",
+  "lastOpenFiles": [
+    "00 - School/magisterka/Aplikacja SPRADZIĆ BUNDLE SIZE.md",
+    "00 - School/projektowanie biznesowe/Informacje wstępne.md",
+    "02 - Projects/Turbanscy/documentation/app/Application.md",
+    "02 - Projects/Turbanscy/documentation/Table of contents.md",
+    "02 - Projects/Turbanscy/documentation/Creds.md",
+    "02 - Projects/heritime/Ideas.md",
+    "00 - School/magisterka/Zarys.md",
+    "02 - Projects/Turbanscy/documentation/prisma/Migration.md",
+    "02 - Projects/PDF Reviever/Review PDF with anyone.md",
+    "01 - Work/Nokia/FC/Testy.md",
+    "01 - Work/Nokia/FC/Release tag name edit.md",
+    "01 - Work/Nokia/FC/Performance Evidences Create Wizard Refactor.md",
+    "01 - Work/Nokia/FC/Migracje.md",
+    "01 - Work/Nokia/FC/FIM Relations block Publish to Customers.md",
+    "01 - Work/Nokia/FC/Antd testy.md",
+    "01 - Work/Nokia/FC/Admin Panel tabs via link.md",
+    "01 - Work/Nokia/FC/Common errors.md",
+    "01 - Work/Nokia/FC/RNDFocalPoint.md",
+    "Impreza kostiumowa - Zakładowa2024.md",
+    "02 - Projects/Turbanscy/TODO.md",
+    "02 - Projects/Turbanscy/documentation/prisma/Ticket model.md",
+    "02 - Projects/Turbanscy/documentation/prisma/Driver model.md",
+    "02 - Projects/Turbanscy/documentation/prisma/User model.md",
+    "02 - Projects/Turbanscy/documentation/prisma/Schema.md",
+    "05 - TODO/Daily Kanban.md",
+    "05 - TODO/Quick TODO.md",
+    "02 - Projects/PDF Reviever",
+    "02 - Projects/Turbanscy/documentation/app",
+    "02 - Projects/Turbanscy/documentation/types",
+    "02 - Projects/Turbanscy/documentation/Untitled.canvas",
+    "02 - Projects/Turbanscy/documentation/public",
+    "02 - Projects/Turbanscy/documentation/prisma",
+    "02 - Projects/Turbanscy/documentation",
+    "02 - Projects/Turbanscy",
+    "00 - School/projektowanie biznesowe",
+    "01 - Work/Nokia/FC",
+    "06 - Learning/Algorithms & Data Structures/Arrays"
+  ]
+}
